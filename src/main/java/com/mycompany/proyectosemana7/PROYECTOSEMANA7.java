@@ -31,7 +31,7 @@ public class PROYECTOSEMANA7 {
                     if(asientosDisponibles.contains(asiento)){
                         fila += asiento + " - ";
                     }else{
-                        fila += "XX" + i + " - ";
+                        fila += "XX - ";
                     }
                 }
                 
